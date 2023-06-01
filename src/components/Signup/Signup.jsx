@@ -16,7 +16,7 @@ const Signup = () => {
     const [avatar, setAvatar] = useState(null);
     const navigate = useNavigate();
 
-
+//odio js
 
 const handleFileInputChange = (e) => {
     const file = e.target.files[0];
