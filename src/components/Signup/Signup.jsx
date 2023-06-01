@@ -23,7 +23,7 @@ const handleFileInputChange = (e) => {
     setAvatar(file);
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
 
     
